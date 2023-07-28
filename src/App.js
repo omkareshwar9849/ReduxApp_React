@@ -7,6 +7,7 @@ function App() {
     <>
       <Navbar/>
       <div className="container">
+        
         <Shop/>
       </div>
     </>
